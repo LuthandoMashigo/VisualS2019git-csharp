@@ -9,6 +9,8 @@ namespace VisualS2019git_csharp
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Here is a change");
+
+            Console.WriteLine("SEcond Change");
         }
     }
 }
